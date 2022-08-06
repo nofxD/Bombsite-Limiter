@@ -1,0 +1,15 @@
+"Phrases"
+{
+  "Bombsite Hint"
+  {
+    "#format"	"{1:s}"
+    "en"    "Only bombsite {1} is enabled in this round!"
+    "pl"    "W tej rundzie gramy tylko bombsite {1}!"
+  }
+  "Bombsite Chat"
+  {
+    "#format" "{1:s}"
+    "en"    "{default}[{green}BS Limiter{default}] Due to the small amount of people on the server, we only play bombsite {lightred}{1}{default} in this round."
+    "pl"    "{default}[{green}BS Limiter{default}] Ze względu na małą liczbę osób na serwerze, w tej rundzie gramy tylko bombsite {lightred}{1}{default}."
+  }
+}
