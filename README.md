@@ -1,4 +1,4 @@
 # Bombsite Limiter (CS:GO)
-Limiter Bombsite'u, kiedy w drużynie CT nie ma conajmniej 3 graczy.
+Limiter Bombsite'u, gdy w drużynie CT nie ma co najmniej 3 graczy.
 
 Blokowany Bombsite jest losowy.
